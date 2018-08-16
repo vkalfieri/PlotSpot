@@ -43,7 +43,6 @@ const ProfileSchema = new Schema({
             },
             publisher: {
                 type: String,
-                required: true
             },
             blurb: {
                 type: String
